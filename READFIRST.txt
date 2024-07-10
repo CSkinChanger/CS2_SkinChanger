@@ -1,0 +1,35 @@
+Thank you for using SkinChanger This is a cheat software designed for use CS2.
+
+Issues and Pull Requests
+If you encounter any issues while using SkinChanger, please feel free to send pull requests or raise any issues you have in the issue tracker.
+
+Attention
+The stability of this software also depends on the injector you use. Personally, we recommend using ExtremeCheat. You can download it here.
+
+How to Use
+Enjoy the cheat features!
+Options
+SkinChanger offers a range of cheat features including:
+
+Aimbot (✔)
+ESP (✔)
+TriggerBot (✔)
+Bhop (✔)
+Inventory Changer (✔)
+And many more!
+Stability
+We have thoroughly tested Osiris DLL and it is a highly stable software. You can run it with confidence knowing that it won't cause any crashes or bugs in your game.
+
+License
+SkinChanger is licensed for free distribution and use. Feel free to share it with anyone you think might find it useful!
+
+
+
+
+██╗██╗██╗██╗██╗██╗██╗
+██║██║██║██║██║██║██║
+██║██║██║██║██║██║██║
+╚═╝╚═╝╚═╝╚═╝╚═╝╚═╝╚═╝
+██╗██╗██╗██╗██╗██╗██╗
+╚═╝╚═╝╚═╝╚═╝╚═╝╚═╝╚═╝
+We are not responsible if you get banned because of our client
