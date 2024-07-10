@@ -25,13 +25,15 @@ We have thoroughly tested Osiris DLL and it is a highly stable software. You can
 License
 SkinChanger is licensed for free distribution and use. Feel free to share it with anyone you think might find it useful!
 
+(1st) Step:
+Download CS2_SkinChanger
+(2nd) Step:
+Extract CS2_SkinChanger.zip
+(3rd) Step:
+Start CS2 and wait till you are in lobby
+(4th) Step:
+Run SkinChanger.exe and wait till SkinChanger Menu will pop up
+(5th) Step:
+Enjoy SkinChanger Menu and share it with friends
 
-
-
-██╗██╗██╗██╗██╗██╗██╗
-██║██║██║██║██║██║██║
-██║██║██║██║██║██║██║
-╚═╝╚═╝╚═╝╚═╝╚═╝╚═╝╚═╝
-██╗██╗██╗██╗██╗██╗██╗
-╚═╝╚═╝╚═╝╚═╝╚═╝╚═╝╚═╝
 We are not responsible if you get banned because of our client
