@@ -39,8 +39,3 @@ Run SkinChanger.exe and wait till SkinChanger Menu will pop up
 Enjoy SkinChanger Menu and share it with friends
 
 We are not responsible if you get banned because of our client
-
-https://cdn.discordapp.com/attachments/1261362727021187253/1261396839652003972/20240315_223600.jpg?ex=6692ceda&is=66917d5a&hm=25ba9d4d5dba413bcd1a79300331e43785c52482d68f8d70b41a3e0a7879f43b&
-
-
-
